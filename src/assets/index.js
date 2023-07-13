@@ -18,9 +18,8 @@ import tailwind from "./tech/tailwind.png";
 
 import fmp from "./company/Fmp.png";
 
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import musicPlayer from "./MusicPlayer.png";
+import myPortfolio from "./Portfolio.png";
 import bakerFarm from "./BakerFarm.png";
 
 export {
@@ -43,6 +42,5 @@ export {
   fmp,
   bakerFarm,
   musicPlayer,
-  jobit,
-  tripguide,
+  myPortfolio,
 };

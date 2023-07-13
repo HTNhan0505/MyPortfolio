@@ -10,9 +10,8 @@ import {
   git,
   figma,
   fmp,
-  jobit,
-  tripguide,
   musicPlayer,
+  myPortfolio,
   bakerFarm,
 } from "../assets";
 
@@ -163,25 +162,25 @@ const projects = [
     source_code_link: "https://github.com/HTNhan0505/MusicPlayerProject",
   },
   {
-    name: "Trip Guide",
+    name: "My Portfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The Web page uses React Three fiber to create 3D effects with ThreeJS.Implement sending emails through a form on the website.Ensure responsiveness across all devices",
     tags: [
       {
-        name: "nextjs",
+        name: "React/Vite",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "ThreeJs",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: myPortfolio,
+    source_code_link: "https://github.com/HTNhan0505/MyPortfolio",
   },
 ];
 
