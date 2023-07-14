@@ -34,7 +34,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frotend Developer",
+    title: "Frontend Developer",
     icon: web,
   },
   {
@@ -42,7 +42,7 @@ const services = [
     icon: creator,
   },
   {
-    title: "Self-study",
+    title: "Self-Study",
     icon: mobile,
   },
   {
@@ -96,7 +96,7 @@ const experiences = [
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "I assigned to handle login form access token/refesh token with redux-tool kit ",
+      "Assigned to handle login form access token/refesh token with redux-tool kit ",
     ],
   },
 ];
