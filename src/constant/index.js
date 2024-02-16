@@ -9,10 +9,13 @@ import {
   reactjs,
   redux,
   tailwind,
+  angular,
+  typescript,
   git,
   figma,
   fmp,
-  musicPlayer,
+  viethas,
+  fashion,
   myPortfolio,
   bakerFarm,
 } from "../assets";
@@ -77,6 +80,14 @@ const technologies = [
     icon: tailwind,
   },
   {
+    name: "Angular",
+    icon: angular,
+  },
+  {
+    name: "Typescript",
+    icon: typescript,
+  },
+  {
     name: "git",
     icon: git,
   },
@@ -97,6 +108,18 @@ const experiences = [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Assigned to handle login form access token/refesh token with redux-tool kit ",
+    ],
+  },
+  {
+    title: "InternShip",
+    company_name: "Viethas Company",
+    icon: viethas,
+    iconBg: "#fff",
+    date: "August 2023 - December 2023",
+    points: [
+      "Learn and get acquainted with the Angular language, TypeScript and some new libraries",
+      "Participate in the company's main project, work with the design team to build and handle project functions and responsive project.",
+      "Technologies: Angular , TypeScript,HTML, SCSS, Material Design , Ng-Zorro-antd",
     ],
   },
 ];
@@ -123,25 +146,21 @@ const projects = [
     source_code_link: "https://github.com/HTNhan0505/BakerFarmProject",
   },
   {
-    name: "MusicPlayer Project",
+    name: "Fashion Shop",
     description:
-      "The Web page can play music , previous , next , random , repeat.Utilized responsive design to ensure compatibility across all devices.Use local storage to save old selections",
+      "To use the project, you must first register an account by clicking the 'menu' button on theleft on the header bar. After sign up, the system will send an OTP code to email . After successfully loggin the system will download the product",
     tags: [
       {
-        name: "HTML",
+        name: "Angular",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "JavaScript",
+        name: "NG-Zorro Antd",
         color: "pink-text-gradient",
       },
     ],
-    image: musicPlayer,
-    source_code_link: "https://github.com/HTNhan0505/MusicPlayerProject",
+    image: fashion,
+    source_code_link: "https://fashion-shop-client-379b8.web.app/",
   },
   {
     name: "My Portfolio",
