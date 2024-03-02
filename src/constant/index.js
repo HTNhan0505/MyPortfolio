@@ -117,9 +117,12 @@ const experiences = [
     iconBg: "#fff",
     date: "August 2023 - December 2023",
     points: [
+      "Technologies: Angular , Bootstrap, NG-ZORRO , Angular Material",
       "Learn and get acquainted with the Angular language, TypeScript and some new libraries",
       "Participate in the company's main project, work with the design team to build and handle project functions and responsive project.",
-      "Technologies: Angular , TypeScript,HTML, SCSS, Material Design , Ng-Zorro-antd",
+      "Develop and fix components in the company's auto web project",
+      "Working directly with the Tester team to address Frontend issues",
+      "Following git workflows and handling merge conflicts",
     ],
   },
 ];
